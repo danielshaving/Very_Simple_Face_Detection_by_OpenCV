@@ -17,6 +17,4 @@ First install the following dependencies under CentOS 6.5 to ensure that the rel
 
 Run under CentOS: `python face_detect.py`, the relevant parameters can be specified in the main function.
 
-Finally output ./*.face.jpg, ./*.mouth.jpg file, and *_faces directory (save the recognized face)!
-
 ![Pic](Detection_result.png)
