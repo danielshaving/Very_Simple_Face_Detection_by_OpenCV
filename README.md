@@ -12,7 +12,6 @@ First install the following dependencies under CentOS 6.5 to ensure that the rel
 - python-opencv* (use `yum install opencv*` with yum in centos system)
 - PIL module (Use yum to install `yum install Pillow` in centos system)
 
-Off topic, provide an article about installing pip, Python many modules are available for installation via pip: [Python learning - install pip and scikit-learn] (http://blog.csdn.net/dream_angel_z/article /details/45828189)
 
 ## Testing and Results
 
